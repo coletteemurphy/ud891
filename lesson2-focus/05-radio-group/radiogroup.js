@@ -31,7 +31,7 @@
 
         e.preventDefault();
 
-        // This seems like a good place to do some stuff :)
+        // Left means move along the radio buttons or if at last move to first
 
         break;
 
